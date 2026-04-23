@@ -190,10 +190,7 @@ with col:
     c1, c2 = st.columns([1,4])
 
     with c1:
-        st.image(
-            r"c:\Users\Nithyassri\Pictures\Screenshots\Lensify.png",
-            width=100   # 🔥 slightly bigger logo
-        )
+        st.image("logo.png", width=100)
 
     with c2:
         st.markdown('<h1 class="brand-title">LENSIFY</h1>', unsafe_allow_html=True)
