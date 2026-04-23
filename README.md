@@ -104,4 +104,4 @@ streamlit run app.py
 
 ## Contributor
 
-Madhumitha Dhanaraj
+Nithyassri Dhanaraj
